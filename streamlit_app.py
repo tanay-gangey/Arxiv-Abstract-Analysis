@@ -8,7 +8,6 @@ import time
 from MulticoreTSNE import MulticoreTSNE as TSNE
 import numpy as np
 from operator import itemgetter
-from sklearn.feature_extraction.text import TfidfVectorizer
 
 """
 # Arxiv Paper Abstracts Analysis
