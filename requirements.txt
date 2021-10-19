@@ -1,0 +1,9 @@
+cmake==3.18.4
+pandas
+streamlit
+streamlit-wordcloud
+gensim
+numpy
+plotly
+MulticoreTSNE
+scikit-learn
