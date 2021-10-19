@@ -5,5 +5,3 @@ streamlit-wordcloud
 gensim
 numpy
 plotly
-MulticoreTSNE
-scikit-learn
