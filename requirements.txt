@@ -1,0 +1,8 @@
+altair
+pandas
+streamlit
+streamlit-wordcloud
+gensim
+MulticoreTSNE
+numpy
+plotly
